@@ -7,9 +7,9 @@ ${Browser}              chrome
 ${close}                xpath://button[contains(text(),'Close')]
 ${login}                xpath://a[contains(text(),'Log in')]
 ${email_path}           id:email
-${email_value}          indiakarnataka18@gmail.com
+${email_value}          TYPE YOUR EMAIL
 ${pwd_path}             id:password
-${pwd_value}            Tom2jerry!
+${pwd_value}            TYPE YOUR PASSWORD
 ${lognbtn}              xpath://button[@id='login-btn']
 ${watchlist}            xpath://span[contains(text(),'Watchlist')]
 ${US_Stocks}            xpath://div[contains(text(),'US Stocks')]   
